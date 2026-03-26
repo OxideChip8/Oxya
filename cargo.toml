@@ -1,1 +1,6 @@
+[package]
+name = "Oxya"
+version = "0.10.0"
+edition = "2021"
 
+[dependencies]
